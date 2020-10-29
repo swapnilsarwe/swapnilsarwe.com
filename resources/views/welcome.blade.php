@@ -33,7 +33,7 @@
 
                 <div class="mx-auto lg:mx-0 w-4/5 pt-3 border-b-2 border-teal-500 opacity-25"></div>
                 <p class="pt-4 text-base font-bold flex items-center justify-center lg:justify-start">
-                    @svg('entypo-briefcase', ['class' => 'h-4 fill-current text-teal-700 pr-4']
+                    @svg('entypo-briefcase', ['class' => 'h-4 fill-current text-teal-700 pr-4'])
                     Web Developer</p>
                 <p class="pt-2 text-gray-600 text-xs lg:text-sm flex items-center justify-center lg:justify-start">
                     @svg('entypo-globe', ['class' => 'h-4 fill-current text-teal-700 pr-4'])
