@@ -1,8 +1,8 @@
 <?php
 
-use App\Http\Controllers\HomeController;
-use App\Http\Controllers\HomepageController;
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\UsesController;
+use App\Http\Controllers\WelcomePageController;
 
 /*
 |--------------------------------------------------------------------------
@@ -15,4 +15,5 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', HomepageController::class);
+Route::get('/', WelcomePageController::class);
+Route::get('/uses', UsesController::class);
