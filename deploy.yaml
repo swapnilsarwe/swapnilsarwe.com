@@ -3,7 +3,6 @@ import:
     - contrib/php-fpm.php
     - contrib/npm.php
     - deploy/generate-sitemap.php
-    - deploy/icon-cache.php
     - deploy/response-cache.php
 
 config:
