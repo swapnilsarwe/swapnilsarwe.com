@@ -7,7 +7,7 @@ import:
     - deploy/response-cache.php
 
 config:
-  application: 'codeat3.co'
+  application: 'swapnilsarwe.com'
   repository: 'git@github.com:swapnilsarwe/swapnilsarwe.com.git'
   php_fpm_version: '8.1'
 
