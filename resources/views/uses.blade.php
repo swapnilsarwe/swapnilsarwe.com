@@ -5,9 +5,8 @@
     <section class="relative py-16 bg-white min-w-screen animation-fade animation-delay">
         <div class="container px-0 px-8 mx-auto sm:px-12 xl:px-5">
 
-            <h3 class="mt-1 text-2xl font-bold text-left text-gray-800 sm:mx-6 sm:text-3xl md:text-4xl lg:text-5xl sm:text-center sm:mx-0">
-                Uses
-            </h3>
+            <x-h1>Uses</x-h1>
+
             <div class="w-full px-6 py-6 mx-auto mt-10 bg-white rounded-lg sm:px-8 md:px-12 sm:py-8 lg:w-5/6 xl:w-2/3">
                 <div class="mt-8 prose prose-slate mx-auto lg:prose-lg">
                     <h3>Development</h3>

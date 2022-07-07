@@ -2,14 +2,8 @@
 
 <!-- Main Hero Content -->
 <div class="container max-w-lg px-4 py-32 mx-auto mt-px text-left md:max-w-none md:text-center">
-    <h1 class="text-5xl font-extrabold leading-10 tracking-tight text-left text-gray-900 md:text-center sm:leading-none md:text-6xl lg:text-7xl">
-        <span class="inline md:block text-transparent bg-clip-text bg-gradient-to-r from-indigo-500 via-red-500 to-indigo-500">
-            Hello I'm Swapnil.
-        </span>
-        <!-- <span class="relative mt-2 text-transparent bg-clip-text bg-gradient-to-br from-indigo-600 to-indigo-500 md:inline-block">
-            Next Great Idea
-        </span> -->
-    </h1>
+
+    <x-h1> Hello I'm Swapnil.</x-h1>
 
     <div class="mx-auto mt-5 text-gray-500 text-left md:mt-12 md:max-w-lg lg:text-lg">
         <h2 class="text-2xl font-extrabold leading-10 tracking-tight text-left text-gray-900 md:text-left sm:leading-none md:text-3xl lg:text-4xl">
