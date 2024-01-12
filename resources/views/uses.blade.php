@@ -18,12 +18,11 @@
                             <x-link link="https://iterm2.com/">iTerm</x-link> is my preferred terminal. I keep all my shell settings synced in the <x-link link="https://github.com/swapnilsarwe/dotfiles">dotfiles</x-link> repository, forked out from <x-link link="https://github.com/driesvints/dotfiles">dotfiles</x-link> by <x-link link="https://driesvints.com/">Dries Vints</x-link>
                         </li>
                         <li>
-                            <x-link link="https://www.mozilla.org/en-US/firefox/new/">Firefox</x-link> is a main Browser alongside <x-link link="https://www.apple.com/in/safari/">Safari</x-link>
+                            <x-link link="https://arc.net/">Arc</x-link> is a main Browser alongside <x-link link="https://www.apple.com/in/safari/">Safari</x-link>
                         </li>
                         <li>
-                            <x-link link="https://laravel.com/docs/9.x/valet">Laravel Valet</x-link> for Local Development, it suits me since I keep my local PHP upgraded to the one supported by latest Laravel version
+                            <x-link link="https://herd.laravel.com/">Herd</x-link> for Local Development, it suits me since I keep my local PHP upgraded to the one supported by latest Laravel version
                         </li>
-                        <li>I use <x-link link="https://github.com/nicoverbruggen/phpmon">PHPMon</x-link> to swith between PHP versions, wonderful tool with nice UI to manage several versions of PHP</li>
                         <li>
                             <x-link link="https://www.docker.com/">Docker</x-link> for projects with very specific requirement.
                         </li>
@@ -31,7 +30,6 @@
                             <x-link link="https://tableplus.com/">TablePlus</x-link> & <x-link link="https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio?view=sql-server-ver16">Azure Data Studio</x-link> (for MSSQL) as Database Clients
                         </li>
                         <li><x-link link="https://tinkerwell.app/">Tinkerwell</x-link> is a wonderful coderunner, comes in handy to try any adhoc script and piece of code which I need to tweak.</li>
-                        <li></li>
                     </ul>
                 </div>
             </div>
@@ -47,9 +45,9 @@
                             <x-link link="https://www.notion.so/">Notion</x-link> for Notes & Docs
                         </li>
                         <li>
-                            <x-link link="https://www.alfredapp.com/">Alfred</x-link>, <x-link link="https://www.raycast.com/">Raycast</x-link> & <x-link link="https://github.com/ObuchiYuki/DevToysMac">DevToysMac</x-link> for trivial tasks
+                            <x-link link="https://www.raycast.com/">Raycast</x-link> & <x-link link="https://github.com/ObuchiYuki/DevToysMac">DevToysMac</x-link> for trivial tasks
                         </li>
-                        <li><x-link link="https://rectangleapp.com/">Rectangle</x-link> is a wonderful tool to move and resize windows while working.</li>
+                        <li>Window Management: I was using<x-link link="https://rectangleapp.com/">Rectangle</x-link>, but now using <x-link link="https://www.raycast.com/">Raycast</x-link> </li>
                     </ul>
                 </div>
             </div>
@@ -60,6 +58,9 @@
                     <ul>
                         <li>
                             <x-link link="https://www.apple.com/in/shop/buy-mac/macbook-air/with-m1-chip">2020 Apple MacBook Air (8GB RAM) - M1 Chip</x-link> suits my day to day work without any issues
+                        </li>
+                        <li>
+                            <x-link link="https://www.lg.com/in/monitors/lg-29wl500-b">LG 29WL500 Ultrawide</x-link> gives me enough space to work on 2 windows at a time.
                         </li>
                         <li>
                             <x-link link="https://keychron.in/product/keychron-k2-v-2/?attribute_pa_switch-option=red-switch&attribute_pa_version=white-backlight">Keychron K2 Wireless Mechanichal Keyboard (Version-2)</x-link> is the keyboard I've been trying since last 2-3 months, so far so good
